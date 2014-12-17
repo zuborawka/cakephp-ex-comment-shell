@@ -1,0 +1,18 @@
+{
+	"name": "zuborawka/cakephp-ex-comment-shell",
+	"description": "Extend Shell Plugin for CakePHP",
+	"type": "cakephp-plugin",
+	"keywords": ["cakephp", "shell", "comment"],
+	"homepage": "https://github.com/zuborawka/cakephp-ex-comment-shell",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "zuborawka",
+			"email": "zuborawka@live.jp"
+		}
+	],
+	"require": {
+		"php": ">=5.2.8",
+		"composer/installers": "*"
+	}
+}
